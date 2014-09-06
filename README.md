@@ -1,4 +1,6 @@
 hello-git
 =========
 
-My first repository
+This is my first repository.
+Let me try something for fun. 
+='w'=
